@@ -1,0 +1,2 @@
+Rua das Flores, Maria, 30, 3500.50
+Av. Central, João, 25, 2800.00
